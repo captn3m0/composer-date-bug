@@ -1,0 +1,13 @@
+{
+    "name": "captn3m0/composer-date-bug",
+    "authors": [
+        {
+            "name": "Nemo",
+            "email": "me@captnemo.in"
+        }
+    ],
+    "require": {
+        "symfony/routing": "^4.0",
+        "aws/aws-sdk-php": "^3.51"
+    }
+}
